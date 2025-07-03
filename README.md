@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Kumar Pratik
+---
 
-<!--
-**kumar-pratik1006/kumar-pratik1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Profession
+** B.tech CSE Student**
 
-Here are some ideas to get you started:
+## 💻 Skills
+- HTML
+- CSS
+- JavaScript
+- ...and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Repositories
+> _Your pinned repositories will be displayed here on your GitHub profile page._
+
+## 📝 Bio
+"OUR WEAPONS ARE NOT GUNS & BOMBS BUT LINES OF CODE....."💀⚠️  
+<<HACK THE PLANET ! SHUT UP OR BOOT UP !>>  
+_____  [" ITZ  HACKERS  WAY "]  _____
+
+## 🔗 Social Links
+- [Portfolio/Blog](https://techexpert.vercel.app/)
+- [GitHub](https://github.com/kumar-pratik1006)
+- [Facebook](https://facebook.com/kumarpratik.01)
+- [Instagram](https://instagram.com/_kumarpratik_)
+- [LinkedIn](https://linkedin.com/in/--kumarpratik--)
+
+## ⚡ Hobbies
+- Coding
+- Programming
+- Making IOT projects
+
+---
+*Feel free to connect!*
