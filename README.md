@@ -30,5 +30,8 @@ _____  [" ITZ  HACKERS  WAY "]  _____
 - Programming
 - Making IOT projects
 
+## 👀 Profile veiws
+![Profile views](https://komarev.com/ghpvc/?username=kumar-pratik1006&color=blue)
+
 ---
 *Feel free to connect!*
