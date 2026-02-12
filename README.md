@@ -6,8 +6,11 @@
 
 ## 💻 Skills
 - HTML
-- CSS
+- CSS, tailwind
 - JavaScript
+- Typescript 
+- React
+- Node js, express, socket.io
 - ...and more!
 
 ## 📌 Pinned Repositories
